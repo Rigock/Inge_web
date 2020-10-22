@@ -1,0 +1,17 @@
+{
+    "name": "asincrono",
+    "version": "1.0.0",
+    "description": "practica de asincronismo en javascript",
+    "main": "src/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "callback": "node src/callback/index.js"
+    },
+    "keywords": [
+        "callbacks",
+        "promise",
+        "async"
+    ],
+    "author": "Rigo",
+    "license": "MIT"
+}
